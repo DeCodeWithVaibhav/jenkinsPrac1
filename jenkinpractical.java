@@ -15,6 +15,6 @@ public class jenkinpractical {
         System.out.println(green + "##################################################" + reset);
         System.out.println(green + "##################################################" + reset);
         System.out.println(green + "##################################################" + reset);
-        System.out.println("\n" + navy + "  Jai Hind!  " + reset + "  Indian National Flag" + "\n");
+        System.out.println("\n" + navy + "  Jai Hind Dosto!  " + reset + "  Indian National Flag" + "\n");
     }
 }
